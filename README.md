@@ -25,12 +25,12 @@ My nightime routine
 My **absolute rule in life** is to not really judge people based on first appearances or what other people say. **Go into life with open eyes** and experience things how you would normally instead of judging people before meeting them.
 ## My favorite websites
 [YouTube](https://www.youtube.com)<br>
-[Discord](https://discord.com)
+[Discord](https://discord.com)<br>
 [SoundCloud](https://soundcloud.com/)
 ## People of Interest
 [Alexander the Great][1]<br>
 <kbd>
-<img src="https://github.com/Duckydabs/AboutMe/blob/main/img/obama.jpg" height="100px" width="200px">
+<img src="https://github.com/PengoWengo/AboutMe/blob/main/img/alexander.jpg" height="100px" width="200px">
  </kbd><br>
 [Elon Musk][2]<br>
 <kbd>
