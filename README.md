@@ -3,32 +3,31 @@
 ---
 ### Introduction
 ##### My name is Alex Gillett. I am currently attending the Computer Science program at SICTC. I plan to enter the field of computer science at USI. By Taking this class, it further informed me on that I want to do this.
-[1]:https://en.wikipedia.org/wiki/Barack_Obama
+[1]:https://en.wikipedia.org/wiki/Alexander_the_Great
 [2]:https://en.wikipedia.org/wiki/Elon_Musk
 [3]:https://en.wikipedia.org/wiki/Osama_bin_Laden
-[here]:https://www.youtube.com/@Duckydabs/featured
 Hobbies
 -
 My hobbies include:
-- YouTube Creator
+- Airsofting
 - Gaming
-- Video Editing
+- Watching Anime
 - Driving
+- Listening to music
 My nightime routine
-1. Wrap up PC tasks and shut it down
+1. Shut down PC
 2. Brush teeth
-3. Drive to and lock church
-4. Drive home and go to sleep
+3. Make sure I have clothes for tomorrow
+4. Put chromebook on charger
 ## My Philosophy
-*You only live once*
-My **unmatched perspicacity** coupled with **sheer indefatigability** makes me a feared opponent in any realm of human endeavor.
-Life is **not** a **spectator sport**
+*Never judge before meeting*
+My **absolute rule in life** is to not really judge people based on first appearances or what other people say. **Go into life with open eyes** and experience things how you would normally instead of judging people before meeting them.
 ## My favorite websites
 [YouTube](https://www.youtube.com)<br>
 [Discord](https://discord.com)
-[Check me out][here]
+[SoundCloud](https://soundcloud.com/)
 ## People of Interest
-[Obama][1]<br>
+[Alexander the Great][1]<br>
 <kbd>
 <img src="https://github.com/Duckydabs/AboutMe/blob/main/img/obama.jpg" height="100px" width="200px">
  </kbd><br>
@@ -43,6 +42,6 @@ Life is **not** a **spectator sport**
  ## Terms
 |Terms| Definitions | My meaning |
 |:-| :----: | ---: |
-|Golbin| a mischievous, ugly creature resembling a dwarf | A person who is doing some tomfoolery |
-|Sicko Mode| Sicko Mode is a song by American rapper Travis Scott | When someone does something very insane |
-|Sheesh| used to express disbelief or exasperation. | A response to something exciting |
+|Wack| of poor skill or quality | Something weird or unexpected happen |
+|bozo| a stupid, rude, or insignificant person, especially a man. | When someone does something really stupid |
+|fire|combustion or burning, in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke | SOmething really cool or really awesome|
