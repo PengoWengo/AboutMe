@@ -34,7 +34,7 @@ Life is **not** a **spectator sport**
  </kbd><br>
 [Elon Musk][2]<br>
 <kbd>
-<img src=https://github.com/PengoWengo/AboutMe/img/elon.jpg height="100px" width="200px">
+<img src=https://github.com/PengoWengo/AboutMe/blob/main/img/elon.jpg height="100px" width="200px">
  </kbd><br>
 [Osama Bin Laden][3]<br>
 <kbd>
